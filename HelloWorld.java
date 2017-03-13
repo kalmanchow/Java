@@ -1,7 +1,6 @@
-
-
 public class HelloWorld{
 	 public static void main(String[] args){
+<<<<<<< HEAD
 	 	 A a = new A();
 	 	 int i=10;
 	 	 System.out.print(((Object)i).toString());
@@ -11,5 +10,8 @@ public class HelloWorld{
 class A {
 	public void print(){
 		System.out.print("Hello!");
+=======
+	 	System.out.println("Hello World!");
+>>>>>>> origin/master
 	}
 }
